@@ -1,5 +1,8 @@
 main:
-  # - title: "About"
+  - title: "About"
+  - url: /about/
+  - title: "Posts by Tags"
+  - url : /tags/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
