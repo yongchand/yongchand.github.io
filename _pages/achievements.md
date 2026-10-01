@@ -27,6 +27,11 @@ Hong, Y., et al.<br>
 Hong, Y., et al.<br>
 *Poster, 2026 Drug Discovery Innovation Workshop.*
 
+## Reviewer
+
+**NeurIPS 2026 ICBINB-BIO Workshop**<br>
+*Reviewer, 2026*
+
 ## Community & Mentorship
 
 **Google AI Community | USC Viterbi**<br>
