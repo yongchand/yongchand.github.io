@@ -9,6 +9,24 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ---
 
+Preprints
+======
+
+**PRETZEL: A Benchmark for Cyclic Peptide Structure Prediction**<br>
+**Hong, Y.†**, Fang, Z.†, Ubale, M.†, Chen, X., Liu, Y., & Katritch, V.<br>
+*Preprint* (2026).
+
+**Scaling Graph Neural Bandits to Million-Molecule Virtual Screening**<br>
+Siam, Z. S.†, **Hong, Y.†**, Katritch, V., Liu, Y., Kang, J., & Liu, C.<br>
+*Preprint* (2026).
+
+**When DL-Based Prescreening Meets Synthon-Based Docking: Target-Adapting PharmacoNet via MEL-Steered Correction**<br>
+Liu, W.†, **Hong, Y.†**, Ku, T.†, Lee, W.†, Nguyen, E., Xu, A., & Katritch, V.<br>
+*bioRxiv* (2026). \[[Preprint](https://doi.org/10.64898/2026.09.02.748684)\]
+
+Peer-Reviewed Publications
+======
+
 **Trustworthy Protein–Ligand Binding Affinity Prediction via Reliability-Aware Multi-Engine Fusion**<br>
 **Hong, Y.**, Cao, D., Liu, W., Ku, T., Lam, J. H., Nguyen, E., Neiswanger, W., Katritch, V., & Liu, Y.<br>
 *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).* Accepted.
